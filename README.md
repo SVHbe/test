@@ -1,4 +1,4 @@
-# Devasc_Skills Repository
+# Devasc_Ski Repository
 
 ## Taaknaam:
 Dit is een test
